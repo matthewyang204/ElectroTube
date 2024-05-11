@@ -1,0 +1,14 @@
+{
+  "name": "electrotube",
+  "version": "1.0.0",
+  "description": "Desktop version of Youtube",
+  "main": "main.js",
+  "scripts": {
+    "test": "."
+  },
+  "author": "Matthew Yang",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^30.0.3"
+  }
+}
